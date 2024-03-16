@@ -1,5 +1,5 @@
 # assignment7
-Link for the recording: 
+Link for the recording: https://drive.google.com/drive/u/1/home
 Use Case Description: LeNet5, AlexNet, Vgg16, Vgg19
 
 Training the model
